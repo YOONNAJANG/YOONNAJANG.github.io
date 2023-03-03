@@ -1,3 +1,62 @@
 ---
 layout: home
 ---
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+## **About**
+Hello, I am a Ph.D student [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) in Seoul, Korea, advised by Prof. [Heuiseok Lim](https://scholar.google.com/citations?user=HMTkz7oAAAAJ&hl=en). I am studying natural language processing with a particular focus on dialogue generation and multi-modal applications. 
+
+ 
+
+## **Education**
+M.S. and Ph.D integrated course in Computer Science and Engineering, Korea University  
+_Mar. 2020 - PRESENT_
+
+B.S. in English Linguistics and Literature / Language, Brain and Computer, Korea University  
+_Mar. 2015 - Feb. 2020_
+
+ 
+
+## **Papers**
+[**You Truly Understand What I Need: Intellectual and Friendly Dialogue Agents grounding Knowledge and Persona**](https://aclanthology.org/2022.findings-emnlp.75.pdf)   
+Jungwoo Lim, Myunghoon Kang, Yuna Hur, Seungwon Jung, Jinsung Kim, **Yoonna Jang**, Dongyub Lee, Hyesung Ji, Donghoon Shin, Seungryong Kim, Heuiseok Lim  
+_EMNLP Findings 2022_
+
+[**A Dog Is Passing Over The Jet? A Text-Generation Dataset for Korean Commonsense Reasoning and Evaluation**](https://aclanthology.org/2022.findings-naacl.172.pdf)  
+Jaehyung Seo, Seounghoon Lee, Chanjun Park, **Yoonna Jang**, Hyeonseok Moon, Sugyeong Eo, Seonmin Koo, Heuiseok Lim  
+_NAACL Findings 2022_
+
+[**FREETALKY: Don’t Be Afraid! Conversations Made Easier by a Humanoid Robot using Persona-based Dialogue**](https://aclanthology.org/2022.lrec-1.132.pdf)  
+Chanjun Park, **Yoonna Jang**, Seolhwa Lee, Sungjin Park*, and Heuiseok Lim  
+_LREC 2022_
+
+[**Call for Customized Conversation: Customized Conversation Grounding Persona and Knowledge**](https://arxiv.org/pdf/2112.08619.pdf)  
+**Yoonna Jang**, Jungwoo Lim, Yuna Hur, Dongsuk Oh, Suhyune Son, Yeonsoo Lee, Donghoon Shin, Seungryong Kim, and Heuiseok Lim  
+_AAAI 2022_
+
+[**I Know What You Asked: Graph Path Learning using AMR for Commonsense Reasoning**](https://aclanthology.org/2020.coling-main.222.pdf)  
+Jungwoo Lim, Dongsuk Oh, **Yoonna Jang**, Kisu Yang, Heuiseok Lim  
+_COLING 2020_
+
+ 
+
+## **Awards and Honors**
+
+Primary program committee of [The 1st Workshop on Customized Chat Grounding Persona and Knowledge](https://sites.google.com/view/persona-knowledge-workshop/)  
+_COLING 2022_
+
+Brain Korea 21 scholarship which is given to promising students  
+_Korea University 2022_
+
+1st Award at Microsoft AI for Accessibility Hackathon in Korea  
+_Microsoft Korea 2019_
+
