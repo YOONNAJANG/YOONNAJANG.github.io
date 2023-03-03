@@ -13,7 +13,7 @@ layout: home
  
 
 ## **About**
-Hello, I am a Ph.D student [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) in Seoul, Korea, advised by Prof. [Heuiseok Lim](https://scholar.google.com/citations?user=HMTkz7oAAAAJ&hl=en). I am studying natural language processing with a particular focus on dialogue generation and multi-modal applications. 
+Hello, I am a Ph.D student in [NLP&AI Lab.](http://nlp.korea.ac.kr/) at [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do), advised by Prof. [Heuiseok Lim](https://scholar.google.com/citations?user=HMTkz7oAAAAJ&hl=en). I am studying natural language processing with a particular focus on language generation and dialogue systems . 
 
  
 
