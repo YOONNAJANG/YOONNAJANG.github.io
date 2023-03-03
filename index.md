@@ -51,7 +51,7 @@ _COLING 2020_
 
 ## **Awards and Honors**
 
-Primary program committee of [The 1st Workshop on Customized Chat Grounding Persona and Knowledge](https://sites.google.com/view/persona-knowledge-workshop/)  
+Program committee of [The 1st Workshop on Customized Chat Grounding Persona and Knowledge](https://sites.google.com/view/persona-knowledge-workshop/)  
 _COLING 2022_
 
 Brain Korea 21 scholarship which is given to promising students  
