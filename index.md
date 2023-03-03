@@ -55,8 +55,8 @@ Program committee of [The 1st Workshop on Customized Chat Grounding Persona and 
 _COLING 2022_
 
 Brain Korea 21 scholarship which is given to promising students  
-_Korea University 2022_
+_Korea University, 2022_
 
 1st Award at Microsoft AI for Accessibility Hackathon in Korea  
-_Microsoft Korea 2019_
+_Microsoft Korea, 2019_
 
