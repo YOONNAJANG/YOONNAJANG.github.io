@@ -2,8 +2,9 @@ title: Yoonna's github.io
 author: Yoonna Jang
 email: morelychee@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-url: "https://yoonnajang.github.io"
 show_excerpts: true # set to true to show excerpts on the homepage
+url: "https://yoonnajang.github.io"
+
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -51,7 +52,7 @@ plainwhite:
 # - about.md
 
 # Build settings
-theme: plainwhite
+#theme: plainwhite
 
 plugins:
   - jekyll-seo-tag
