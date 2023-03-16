@@ -32,7 +32,7 @@ Jungwoo Lim, Myunghoon Kang, Yuna Hur, Seungwon Jung, Jinsung Kim, **Yoonna Jang
 _EMNLP Findings 2022_
 
 
-[**PicTalky: Augmentative and Alternative Communication Software for Language Developmental Disabilities**](https://aclanthology.org/2022.aacl-demo.3.pdf). 
+[**PicTalky: Augmentative and Alternative Communication Software for Language Developmental Disabilities**](https://aclanthology.org/2022.aacl-demo.3.pdf)  
 Chanjun Park, **Yoonna Jang**, Seolhwa Lee, Jaehyung Seo, Kisu Yang, Heuiseok Lim  
 _AACL-IJCNLP 2022 demo track_
 
