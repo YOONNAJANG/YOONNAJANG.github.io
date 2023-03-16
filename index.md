@@ -31,6 +31,11 @@ _Mar. 2015 - Feb. 2020_
 Jungwoo Lim, Myunghoon Kang, Yuna Hur, Seungwon Jung, Jinsung Kim, **Yoonna Jang**, Dongyub Lee, Hyesung Ji, Donghoon Shin, Seungryong Kim, Heuiseok Lim  
 _EMNLP Findings 2022_
 
+
+[**PicTalky: Augmentative and Alternative Communication Software for Language Developmental Disabilities**](https://aclanthology.org/2022.aacl-demo.3.pdf). 
+Chanjun Park, **Yoonna Jang**, Seolhwa Lee, Jaehyung Seo, Kisu Yang, Heuiseok Lim  
+_AACL-IJCNLP 2022 demo track_
+
 [**A Dog Is Passing Over The Jet? A Text-Generation Dataset for Korean Commonsense Reasoning and Evaluation**](https://aclanthology.org/2022.findings-naacl.172.pdf)  
 Jaehyung Seo, Seounghoon Lee, Chanjun Park, **Yoonna Jang**, Hyeonseok Moon, Sugyeong Eo, Seonmin Koo, Heuiseok Lim  
 _NAACL Findings 2022_
