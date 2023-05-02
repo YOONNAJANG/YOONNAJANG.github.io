@@ -65,3 +65,15 @@ _Korea University, 2022_
 1st Award at Microsoft AI for Accessibility Hackathon in Korea  
 _Microsoft Korea, 2019_
 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
