@@ -18,7 +18,7 @@ Hello, I am a Ph.D student in [NLP&AI Lab.](http://nlp.korea.ac.kr/) at [Korea U
  
 
 ## **Education**
-M.S. and Ph.D integrated course in Computer Science and Engineering, Korea University  
+Ph.D candidate in Computer Science and Engineering, Korea University  
 _Mar. 2020 - PRESENT_
 
 B.S. in English Linguistics and Literature / Language, Brain and Computer, Korea University  
