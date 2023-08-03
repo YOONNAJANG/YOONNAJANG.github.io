@@ -33,7 +33,7 @@ _Expert Systems with Applications_
 
 [**PEEP-Talk: A Situational Dialogue-based Chatbot for English Education**](https://aclanthology.org/2023.acl-demo.18.pdf)
 Seugnjun Lee, **Yoonna Jang**, Chanjun Park, Jungseob Lee, Jaehyung Seo, Hyeonseok Moon, Sugyeong Eo, Seounghoon Lee, Bernardo Yahya, Heuiseok Lim
-_ACL Demo 2023_
+_ACL 2023 Demo_
 
 [**You Truly Understand What I Need: Intellectual and Friendly Dialogue Agents grounding Knowledge and Persona**](https://aclanthology.org/2022.findings-emnlp.75.pdf)   
 Jungwoo Lim, Myunghoon Kang, Yuna Hur, Seungwon Jung, Jinsung Kim, **Yoonna Jang**, Dongyub Lee, Hyesung Ji, Donghoon Shin, Seungryong Kim, Heuiseok Lim  
@@ -41,7 +41,7 @@ _EMNLP Findings 2022_
 
 [**PicTalky: Augmentative and Alternative Communication Software for Language Developmental Disabilities**](https://aclanthology.org/2022.aacl-demo.3.pdf)  
 Chanjun Park, **Yoonna Jang**, Seolhwa Lee, Jaehyung Seo, Kisu Yang, Heuiseok Lim  
-_AACL-IJCNLP 2022 demo track_
+_AACL-IJCNLP 2022 Demo_
 
 [**A Dog Is Passing Over The Jet? A Text-Generation Dataset for Korean Commonsense Reasoning and Evaluation**](https://aclanthology.org/2022.findings-naacl.172.pdf)  
 Jaehyung Seo, Seounghoon Lee, Chanjun Park, **Yoonna Jang**, Hyeonseok Moon, Sugyeong Eo, Seonmin Koo, Heuiseok Lim  
