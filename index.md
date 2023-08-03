@@ -27,10 +27,17 @@ _Mar. 2015 - Feb. 2020_
  
 
 ## **Papers**
+[**Doubts on the reliability of parallel corpus filtering**](https://www.sciencedirect.com/science/article/pii/S0957417423014641)   
+Hyeonseok Moon, Chanjun Park, Seonmin Koo, Jungseob Lee, Seungjun Lee, Jaehyung Seo, Sugyeong Eo, **Yoonna Jang**, Hyunjoong Kim, Hyoung-gyu Lee, Heuiseok Lim
+_Expert Systems with Applications_
+
+[**PEEP-Talk: A Situational Dialogue-based Chatbot for English Education**](https://aclanthology.org/2023.acl-demo.18.pdf)
+Seugnjun Lee, **Yoonna Jang**, Chanjun Park, Jungseob Lee, Jaehyung Seo, Hyeonseok Moon, Sugyeong Eo, Seounghoon Lee, Bernardo Yahya, Heuiseok Lim
+_ACL Demo 2023_
+
 [**You Truly Understand What I Need: Intellectual and Friendly Dialogue Agents grounding Knowledge and Persona**](https://aclanthology.org/2022.findings-emnlp.75.pdf)   
 Jungwoo Lim, Myunghoon Kang, Yuna Hur, Seungwon Jung, Jinsung Kim, **Yoonna Jang**, Dongyub Lee, Hyesung Ji, Donghoon Shin, Seungryong Kim, Heuiseok Lim  
 _EMNLP Findings 2022_
-
 
 [**PicTalky: Augmentative and Alternative Communication Software for Language Developmental Disabilities**](https://aclanthology.org/2022.aacl-demo.3.pdf)  
 Chanjun Park, **Yoonna Jang**, Seolhwa Lee, Jaehyung Seo, Kisu Yang, Heuiseok Lim  
