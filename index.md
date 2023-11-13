@@ -28,12 +28,12 @@ _Mar. 2015 - Feb. 2020_
 
 ## **Papers**
 **Post-hoc Utterance Refining Method by Entity Mining for Faithful Knowledge Grounded Conversations**
-**Yoonna Jang**, Suhyune Son, Jeongwoo Lee, Junyoung Son, Yuna Hur, Jungwoo Lim, Hyeonseok Moon, Kisu Yang, Heuiseok Lim
-_EMNLP 2023_
+**Yoonna Jang**, Suhyune Son, Jeongwoo Lee, Junyoung Son, Yuna Hur, Jungwoo Lim, Hyeonseok Moon, Kisu Yang, Heuiseok Lim  
+_EMNLP 2023 (Accepted)_
 
 **Explore the Way: Exploring Reasoning Path by Bridging Entities for Effective Cross-Document Relation Extraction**
-Junyoung Son, Jinsung Kim, Jungwoo Lim, **Yoonna Jang**, Heuiseok Lim
-_EMNLP 2023 Findings_
+Junyoung Son, Jinsung Kim, Jungwoo Lim, **Yoonna Jang**, Heuiseok Lim  
+_EMNLP 2023 Findings (Accepted)_
 
 [**Doubts on the reliability of parallel corpus filtering**](https://www.sciencedirect.com/science/article/pii/S0957417423014641)   
 Hyeonseok Moon, Chanjun Park, Seonmin Koo, Jungseob Lee, Seungjun Lee, Jaehyung Seo, Sugyeong Eo, **Yoonna Jang**, Hyunjoong Kim, Hyoung-gyu Lee, Heuiseok Lim  
