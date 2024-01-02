@@ -14,17 +14,17 @@ _Mar. 2015 - Feb. 2020_
 
 ## **Papers**
 
-**Post-hoc Utterance Refining Method by Entity Mining for Faithful Knowledge Grounded Conversations**
+[**Post-hoc Utterance Refining Method by Entity Mining for Faithful Knowledge Grounded Conversations**](https://aclanthology.org/2023.emnlp-main.295.pdf)
 **Yoonna Jang**, Suhyune Son, Jeongwoo Lee, Junyoung Son, Yuna Hur, Jungwoo Lim, Hyeonseok Moon, Kisu Yang, Heuiseok Lim
 _EMNLP 2023_
 
-**Explore the Way: Exploring Reasoning Path by Bridging Entities for Effective Cross-Document Relation Extraction**
+[**Explore the Way: Exploring Reasoning Path by Bridging Entities for Effective Cross-Document Relation Extraction**](https://aclanthology.org/2023.findings-emnlp.450.pdf)
 Junyoung Son, Jinsung Kim, Jungwoo Lim, **Yoonna Jang**, Heuiseok Lim
 _EMNLP 2023 Findings_
 
 [**You Truly Understand What I Need: Intellectual and Friendly Dialogue Agents grounding Knowledge and Persona**](https://aclanthology.org/2022.findings-emnlp.75.pdf)   
 Jungwoo Lim, Myunghoon Kang, Yuna Hur, Seungwon Jung, Jinsung Kim, **Yoonna Jang**, Dongyub Lee, Hyesung Ji, Donghoon Shin, Seungryong Kim, Heuiseok Lim  
-_EMNLP Findings 2022_
+_EMNLP 2022 Findings_
 
 [**PicTalky: Augmentative and Alternative Communication Software for Language Developmental Disabilities**](https://aclanthology.org/2022.aacl-demo.3.pdf)  
 Chanjun Park, **Yoonna Jang**, Seolhwa Lee, Jaehyung Seo, Kisu Yang, Heuiseok Lim  
