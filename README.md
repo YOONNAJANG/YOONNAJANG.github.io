@@ -22,6 +22,14 @@ _EMNLP 2023_
 Junyoung Son, Jinsung Kim, Jungwoo Lim, **Yoonna Jang**, Heuiseok Lim
 _EMNLP 2023 Findings_
 
+[**Doubts on the reliability of parallel corpus filtering**](https://www.sciencedirect.com/science/article/pii/S0957417423014641)   
+Hyeonseok Moon, Chanjun Park, Seonmin Koo, Jungseob Lee, Seungjun Lee, Jaehyung Seo, Sugyeong Eo, **Yoonna Jang**, Hyunjoong Kim, Hyoung-gyu Lee, Heuiseok Lim  
+_Expert Systems with Applications 2023_
+
+[**PEEP-Talk: A Situational Dialogue-based Chatbot for English Education**](https://aclanthology.org/2023.acl-demo.18.pdf)
+Seugnjun Lee, **Yoonna Jang**, Chanjun Park, Jungseob Lee, Jaehyung Seo, Hyeonseok Moon, Sugyeong Eo, Seounghoon Lee, Bernardo Yahya, Heuiseok Lim  
+_ACL 2023 Demo_
+
 [**You Truly Understand What I Need: Intellectual and Friendly Dialogue Agents grounding Knowledge and Persona**](https://aclanthology.org/2022.findings-emnlp.75.pdf)   
 Jungwoo Lim, Myunghoon Kang, Yuna Hur, Seungwon Jung, Jinsung Kim, **Yoonna Jang**, Dongyub Lee, Hyesung Ji, Donghoon Shin, Seungryong Kim, Heuiseok Lim  
 _EMNLP 2022 Findings_
