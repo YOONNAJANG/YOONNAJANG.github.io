@@ -14,11 +14,11 @@ _Mar. 2015 - Feb. 2020_
 
 ## **Papers**
 
-[**Post-hoc Utterance Refining Method by Entity Mining for Faithful Knowledge Grounded Conversations**](https://aclanthology.org/2023.emnlp-main.295.pdf)
+[**Post-hoc Utterance Refining Method by Entity Mining for Faithful Knowledge Grounded Conversations**](https://aclanthology.org/2023.emnlp-main.295.pdf)   
 **Yoonna Jang**, Suhyune Son, Jeongwoo Lee, Junyoung Son, Yuna Hur, Jungwoo Lim, Hyeonseok Moon, Kisu Yang, Heuiseok Lim
 _EMNLP 2023_
 
-[**Explore the Way: Exploring Reasoning Path by Bridging Entities for Effective Cross-Document Relation Extraction**](https://aclanthology.org/2023.findings-emnlp.450.pdf)
+[**Explore the Way: Exploring Reasoning Path by Bridging Entities for Effective Cross-Document Relation Extraction**](https://aclanthology.org/2023.findings-emnlp.450.pdf)   
 Junyoung Son, Jinsung Kim, Jungwoo Lim, **Yoonna Jang**, Heuiseok Lim
 _EMNLP 2023 Findings_
 
@@ -26,7 +26,7 @@ _EMNLP 2023 Findings_
 Hyeonseok Moon, Chanjun Park, Seonmin Koo, Jungseob Lee, Seungjun Lee, Jaehyung Seo, Sugyeong Eo, **Yoonna Jang**, Hyunjoong Kim, Hyoung-gyu Lee, Heuiseok Lim  
 _Expert Systems with Applications 2023_
 
-[**PEEP-Talk: A Situational Dialogue-based Chatbot for English Education**](https://aclanthology.org/2023.acl-demo.18.pdf)
+[**PEEP-Talk: A Situational Dialogue-based Chatbot for English Education**](https://aclanthology.org/2023.acl-demo.18.pdf)   
 Seugnjun Lee, **Yoonna Jang**, Chanjun Park, Jungseob Lee, Jaehyung Seo, Hyeonseok Moon, Sugyeong Eo, Seounghoon Lee, Bernardo Yahya, Heuiseok Lim  
 _ACL 2023 Demo_
 
