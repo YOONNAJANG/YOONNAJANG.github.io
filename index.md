@@ -27,7 +27,7 @@ _Mar. 2015 - Feb. 2020_
  
 
 ## **Papers**
-[**Post-hoc Utterance Refining Method by Entity Mining for Faithful Knowledge Grounded Conversations**](https://aclanthology.org/2023.findings-emnlp.450.pdf)  
+[**Post-hoc Utterance Refining Method by Entity Mining for Faithful Knowledge Grounded Conversations**](https://aclanthology.org/2023.emnlp-main.295.pdf)  
 **Yoonna Jang**, Suhyune Son, Jeongwoo Lee, Junyoung Son, Yuna Hur, Jungwoo Lim, Hyeonseok Moon, Kisu Yang, Heuiseok Lim  
 _EMNLP 2023_
 
