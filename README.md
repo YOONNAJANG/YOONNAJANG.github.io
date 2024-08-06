@@ -52,7 +52,7 @@ _AAAI 2022_
 
 [**I Know What You Asked: Graph Path Learning using AMR for Commonsense Reasoning**](https://aclanthology.org/2020.coling-main.222.pdf)  
 Jungwoo Lim, Dongsuk Oh, **Yoonna Jang**, Kisu Yang, Heuiseok Lim  
-_COLING 2020_
+_COLING 2020_  
  
 
 
@@ -83,7 +83,7 @@ _2020 - 2021_
 
 **Seoul National University - Fourth Industrial Revolution Academy**
 Completed the AI agent course and the capstone project.
-_2018_
+_2018_  
  
 
 
