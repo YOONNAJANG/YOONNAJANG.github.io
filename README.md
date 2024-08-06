@@ -56,6 +56,38 @@ _COLING 2020_
 
  
 
+## **Projects**
+**KT-Korea University Collaborative Research**
+Started to build a Korean legal domain LLM with legal alignment data and Korean LLM.
+_2024 - PRESENT_
+
+[**KULLM Project**](https://github.com/nlpai-lab/KULLM)
+Built a Korean LLM by utilizing multilingual LLM and Korean instruction data.
+_2023_
+
+**Samsung Research-Korea University Collaborative Research**
+Built a model for design analytics with review data from social media.
+_2022_
+
+**NCSOFT-Korea University Collaborative Research**
+Collected dataset and made a model for customized conversation.
+_2021 - 2023_
+
+**Samsung SDS-Korea University Collaborative Research**
+Built a Korean conversational agent.
+_2021_
+
+**DeepBrainAI-Korea University Collaborative Research**
+Made a Korean persona-based chatbot.
+_2020 - 2021_
+
+**Seoul National University - Fourth Industrial Revolution Academy**
+Completed the AI agent course and the capstone project.
+_2018_
+
+
+
+
 ## **Awards and Honors**
 
 Program committee of [The 1st Workshop on Customized Chat Grounding Persona and Knowledge](https://sites.google.com/view/persona-knowledge-workshop/)  
@@ -66,4 +98,8 @@ _Korea University, 2022_
 
 1st Award at Microsoft AI for Accessibility Hackathon in Korea  
 _Microsoft Korea, 2019_
+
+
+
+
 
