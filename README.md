@@ -86,7 +86,7 @@ Completed the AI agent course and the capstone project.
 _2018_  
  
   
-
+  
 ## **Awards and Honors**
 
 Program committee of [The 1st Workshop on Customized Chat Grounding Persona and Knowledge](https://sites.google.com/view/persona-knowledge-workshop/)  
