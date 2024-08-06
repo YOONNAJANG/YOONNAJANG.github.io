@@ -54,7 +54,7 @@ _AAAI 2022_
 Jungwoo Lim, Dongsuk Oh, **Yoonna Jang**, Kisu Yang, Heuiseok Lim  
 _COLING 2020_  
  
-
+  
 
 ## **Projects**
 **KT-Korea University Collaborative Research**
@@ -85,7 +85,7 @@ _2020 - 2021_
 Completed the AI agent course and the capstone project.
 _2018_  
  
-
+  
 
 ## **Awards and Honors**
 
