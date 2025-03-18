@@ -13,7 +13,8 @@ layout: home
  
 
 ## **About**
-Hello, I am a Ph.D student in [NLP&AI Lab.](http://nlp.korea.ac.kr/) at [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do), advised by Prof. [Heuiseok Lim](https://scholar.google.com/citations?user=HMTkz7oAAAAJ&hl=en). I am studying natural language processing with a particular focus on language generation and dialogue systems. 
+Hello, I am a postdoc researcher in [CopeNLU](https://www.copenlu.com/) at [University of Copenhagen](https://www.ku.dk/en) advised by Prof. [Isabelle Augenstein](https://isabelleaugenstein.github.io/index.html). Before joining CopeNLU, I was a student researcher in [NLP&AI Lab.](http://nlp.korea.ac.kr/) advised by Prof. [Heuiseok Lim](https://scholar.google.com/citations?user=HMTkz7oAAAAJ&hl=en) and received the Ph.D. degree in the Department of Computer Science and Engineering at [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do). I received the B.S degree from Korea University with majors in English Language and Literature, Language, Brain and Computer (LBNC). I have studied natural language processing focusing on dialogue systems and commonsense reasoning. My current research interests broadly lie in language models, particularly their factuality and explainability. I aim to make AI models more beneficial to humans and society.
+ 
 
  
 
