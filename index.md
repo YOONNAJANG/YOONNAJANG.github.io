@@ -106,10 +106,10 @@ _2018_
 Program committee of [The 1st Workshop on Customized Chat Grounding Persona and Knowledge](https://sites.google.com/view/persona-knowledge-workshop/)  
 _COLING 2022_
 
-Brain Korea 21 Outstanding Student Scholarship 
+Brain Korea 21 Outstanding Student Scholarship  
 _Korea University, 2022_
 
-1st Award at Microsoft AI for Accessibility Hackathon in Korea  
+1st Award at Microsoft AI for Accessibility Hackathon in Korea   
 _Microsoft Korea, 2019_
 
  
