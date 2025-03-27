@@ -19,7 +19,7 @@ Hello, I am a postdoc researcher in [CopeNLU](https://www.copenlu.com/) at [Univ
  
 
 ## **Education**
-[Ph.D in Computer Science and Engineering, Korea University](https://dcollection.korea.ac.kr/public_resource/pdf/000000290290_20250327175155.pdf)
+[Ph.D in Computer Science and Engineering, Korea University](https://dcollection.korea.ac.kr/public_resource/pdf/000000290290_20250327175155.pdf)  
 _Mar. 2020 - Feb. 2025_
 
 B.S. in English Linguistics and Literature / Language, Brain and Computer, Korea University  
@@ -73,7 +73,7 @@ _COLING 2020_
 ## **Projects**
 **KT-Korea University Collaborative Research**  
 Started to build a Korean legal domain LLM with legal alignment data and Korean LLM.  
-_2024 - PRESENT_
+_2024_
 
 [**KULLM Project**](https://github.com/nlpai-lab/KULLM)  
 Built a Korean LLM by utilizing multilingual LLM and Korean instruction data.  
