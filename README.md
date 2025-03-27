@@ -58,7 +58,7 @@ _COLING 2020_
 ## **Projects**
 **KT-Korea University Collaborative Research**
 Started to build a Korean legal domain LLM with legal alignment data and Korean LLM.
-_2024 - PRESENT_
+_2024_
 
 [**KULLM Project**](https://github.com/nlpai-lab/KULLM)
 Built a Korean LLM by utilizing multilingual LLM and Korean instruction data.
