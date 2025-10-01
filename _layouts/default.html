@@ -98,6 +98,13 @@
           </li>
         </a>
         {%- endif -%}
+        {%- if site.plainwhite.social_links.scholar -%}
+        <a href="https://scholar.google.com/citations?user={ site.plainwhite.social_links.scholar }" target="_blank">
+          <li>
+            <i class="icon-scholar"></i>
+          </li>
+        </a>
+        {%- endif -%}
         {%- if site.plainwhite.social_links.flickr -%}
         <a href="https://flickr.com/{{ site.plainwhite.social_links.flickr }}" target="_blank">
           <li>
