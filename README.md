@@ -1,5 +1,5 @@
 ## **About**
-Hello, I am a postdoc researcher in [CopeNLU](https://www.copenlu.com/) at [University of Copenhagen](https://www.ku.dk/en) advised by Prof. [Isabelle Augenstein](https://isabelleaugenstein.github.io/index.html). Before joining CopeNLU, I was a student researcher in [NLP&AI Lab.](http://nlp.korea.ac.kr/) advised by Prof. [Heuiseok Lim](https://scholar.google.com/citations?user=HMTkz7oAAAAJ&hl=en) and received the Ph.D. degree in the Department of Computer Science and Engineering at [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do). I received the B.S degree from Korea University with majors in English Language and Literature, Language, Brain and Computer (LBNC). I have studied natural language processing focusing on dialogue systems and commonsense reasoning. My current research interests broadly lie in language models, particularly their factuality and explainability. I aim to make AI models more beneficial to humans and society.
+Hello, I am a postdoc researcher in [CopeNLU](https://www.copenlu.com/) at [University of Copenhagen](https://www.ku.dk/en) advised by Prof. [Isabelle Augenstein](https://isabelleaugenstein.github.io/index.html). Before joining CopeNLU, I was a student researcher in [NLP&AI Lab.](http://nlp.korea.ac.kr/) advised by Prof. [Heuiseok Lim](https://scholar.google.com/citations?user=HMTkz7oAAAAJ&hl=en) and received the Ph.D. degree in the Department of Computer Science and Engineering at [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do). I received the B.S degree from Korea University with majors in English Language and Literature, Language, Brain and Computer (LBNC). I have studied natural language processing, focusing on dialogue systems and commonsense reasoning. My current research interests broadly lie in language models, particularly their factuality and explainability. I aim to make AI models more beneficial to humans and society.
  
 
 ## **Education**
@@ -88,6 +88,9 @@ _2018_
   
   
 ## **Awards and Honors**
+
+Workshop organizer of [Pre-ACL 2025 Workshop in Copenhagen](https://www.aicentre.dk/events/20250726-pre-acl-2025-workshop)  
+_University of Copenhagen 2025_
 
 Program committee of [The 1st Workshop on Customized Chat Grounding Persona and Knowledge](https://sites.google.com/view/persona-knowledge-workshop/)  
 _COLING 2022_
