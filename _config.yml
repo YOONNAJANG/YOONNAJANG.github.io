@@ -12,7 +12,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Yoonna Jang
-  tagline: NLP Research
+  tagline: NLP Researcher
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -36,7 +36,7 @@ plainwhite:
     #facebook: jekyll
     #soundcloud: jekyll
     #telegram: jekyll
-    #gitlab: jekyll
+    scholar: jIGuAisAAAAJ&hl
     email: morelychee@gmail.com
 
     # Mastodon instances
