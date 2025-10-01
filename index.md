@@ -104,6 +104,9 @@ _2018_
 
 ## **Awards and Honors**
 
+Workshop organizer of [Pre-ACL 2025 Workshop in Copenhagen](https://www.aicentre.dk/events/20250726-pre-acl-2025-workshop)  
+_University of Copenhagen 2025_
+
 Program committee of [The 1st Workshop on Customized Chat Grounding Persona and Knowledge](https://sites.google.com/view/persona-knowledge-workshop/)  
 _COLING 2022_
 
