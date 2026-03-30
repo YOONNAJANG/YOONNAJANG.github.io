@@ -30,7 +30,7 @@ _Mar. 2015 - Feb. 2020_
 
 ## **Papers**
 [**Interpretable Debiasing of Vision-Language Models for Social Fairness**](https://arxiv.org/abs/2602.24014)  
-Na Min An, **Yoonna Jang**, Yusuke Hirota, Ryo Hachiuma, Isabelle Augenstein, Hyunjung Shim
+Na Min An, **Yoonna Jang**, Yusuke Hirota, Ryo Hachiuma, Isabelle Augenstein, Hyunjung Shim  
 _CVPR 2026_
 
 [**Post-hoc Utterance Refining Method by Entity Mining for Faithful Knowledge Grounded Conversations**](https://aclanthology.org/2023.emnlp-main.295.pdf)  
