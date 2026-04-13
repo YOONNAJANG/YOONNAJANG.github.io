@@ -29,6 +29,10 @@ _Mar. 2015 - Feb. 2020_
  
 
 ## **Papers**
+[**Reliable Evaluation Protocol for Low-Precision Retrieval**](https://arxiv.org/abs/2508.03306)   
+Kisu Yang, **Yoonna Jang**, Hwanseok Jang, Kenneth Choi, Isabelle Augenstein, Heuiseok Lim   
+_ACL 2026_   
+
 [**Interpretable Debiasing of Vision-Language Models for Social Fairness**](https://arxiv.org/abs/2602.24014)  
 Na Min An, **Yoonna Jang**, Yusuke Hirota, Ryo Hachiuma, Isabelle Augenstein, Hyunjung Shim  
 _CVPR 2026_
