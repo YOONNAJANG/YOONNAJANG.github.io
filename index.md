@@ -112,29 +112,29 @@ _2018_
 
 ## **Awards and Honors**
 
-Workshop organizer of [Pre-ACL 2025 Workshop in Copenhagen](https://www.aicentre.dk/events/20250726-pre-acl-2025-workshop)  
+**Workshop organizer of [Pre-ACL 2025 Workshop in Copenhagen](https://www.aicentre.dk/events/20250726-pre-acl-2025-workshop)**  
 _University of Copenhagen 2025_
 
-Program committee of [The 1st Workshop on Customized Chat Grounding Persona and Knowledge](https://sites.google.com/view/persona-knowledge-workshop/)  
+**Program committee of [The 1st Workshop on Customized Chat Grounding Persona and Knowledge](https://sites.google.com/view/persona-knowledge-workshop/)**  
 _COLING 2022_
 
-Brain Korea 21 Outstanding Student Scholarship  
+**Brain Korea 21 Outstanding Student Scholarship**  
 _Korea University, 2022_
 
-1st Award at Microsoft AI for Accessibility Hackathon in Korea   
+**1st Award at Microsoft AI for Accessibility Hackathon in Korea**   
 _Microsoft Korea, 2019_
 
-Best Capstone Project  
+**Best Capstone Project**  
 _Seoul National University - Fourth Industrial Revolution Academy 2018_
 
  
 
 ## **Service**
 
-Reviewer for ARR(ACL/EMNLP/NAACL/EACL/AACL) and AAAI  
+**Reviewer for ARR(ACL/EMNLP/NAACL/EACL/AACL) and AAAI**  
 _2022-_
 
-Area Chair for ARR(ACL/EMNLP/NAACL/EACL/AACL)  
+**Area Chair for ARR(ACL/EMNLP/NAACL/EACL/AACL)**  
 _2025-_
  
 
