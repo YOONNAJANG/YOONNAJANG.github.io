@@ -124,10 +124,18 @@ _Korea University, 2022_
 1st Award at Microsoft AI for Accessibility Hackathon in Korea   
 _Microsoft Korea, 2019_
 
- 
+Best Capstone Project  
+_Seoul National University - Fourth Industrial Revolution Academy 2018_
 
  
 
+## **Service**
+
+Reviewer for ARR(ACL/EMNLP/NAACL/EACL/AACL) and AAAI  
+_2022-_
+
+Area Chair for ARR(ACL/EMNLP/NAACL/EACL/AACL)  
+_2025-_
  
 
  
