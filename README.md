@@ -4,7 +4,7 @@ Hello, I am a postdoc researcher in [CopeNLU](https://www.copenlu.com/) at [Univ
 
 ## **Education**
 **Ph.D** in Computer Science and Engineering, Korea University  
-Doctoral Disseration: [**Conversational Text Generation Grounded in Knowledge and Persona**](https://dcollection.korea.ac.kr/public_resource/pdf/000000290290_20250327175155.pdf)  
+Doctoral Disseration: [**Conversational Text Generation Grounded in Knowledge and Persona**](https://drive.google.com/file/d/1QUPo49_FAML6uPCoXtMV9Cb5s72T7SPT/view?usp=sharing)  
 _Mar. 2020 - Feb. 2025_
 
 **B.S.** in English Linguistics and Literature / Language, Brain and Computer, Korea University  
