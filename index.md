@@ -119,7 +119,7 @@ _Microsoft Korea, 2019_
 
 **Best Capstone Project**  
 _Seoul National University - Fourth Industrial Revolution Academy 2018_  
- 
+
 **Oustanding Paper Award**  
 _The 35th Annual Conference on Human & Cognitive Language Technology, Jeju, Rep. of Korea, 2023_
 
@@ -132,7 +132,7 @@ _The 33rd Annual Conference on Human & Cognitive Language Technology, Online, 20
 **Oustanding Paper Award**  
 _The 32nd Annual Conference on Human & Cognitive Language Technology, Online, 2020_
 
-  
+ 
 
 ## **Service**
 
