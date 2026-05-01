@@ -142,10 +142,10 @@ _University of Copenhagen 2025_
 **Program committee of [The 1st Workshop on Customized Chat Grounding Persona and Knowledge](https://sites.google.com/view/persona-knowledge-workshop/)**  
 _COLING 2022_
 
-**Reviewer for ARR(ACL/EMNLP/NAACL/EACL/AACL) and AAAI**  
+**Reviewer for ARR (ACL/EMNLP/NAACL/EACL/AACL) and AAAI**  
 _2022-_
 
-**Area Chair for ARR(ACL/EMNLP/NAACL/EACL/AACL)**  
+**Area Chair for ARR (ACL/EMNLP/NAACL/EACL/AACL)**  
 _2025-_
  
 
