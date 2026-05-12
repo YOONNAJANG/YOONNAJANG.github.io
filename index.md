@@ -88,6 +88,10 @@ _COLING 2020_
  
 
 ## **Projects**
+**Explain Yourself**  
+Funded by the European Research Council (ERC) to make language models explainable and interpretable.  
+_2025 - 2026_
+
 **KT-Korea University Collaborative Research**  
 Started to build a Korean legal domain LLM with legal alignment data and Korean LLM.  
 _2024_
