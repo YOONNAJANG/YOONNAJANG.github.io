@@ -28,7 +28,7 @@ _Mar. 2015 - Feb. 2020_
 
  
 
-## **Papers**
+## **Featured Papers**
 [**SERA: Self-referential assessment framework for bidirectional generative commonsense reasoning**](https://www.sciencedirect.com/science/article/abs/pii/S0950705126008786)  
 Jaehyung Seo, Hyeonseok Moon, **Yoonna Jang**, Heuiseok Lim
 _Knowledge-Based Systems 2026_   
