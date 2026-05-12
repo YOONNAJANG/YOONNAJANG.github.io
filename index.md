@@ -29,13 +29,21 @@ _Mar. 2015 - Feb. 2020_
  
 
 ## **Papers**
+[**SERA: Self-referential assessment framework for bidirectional generative commonsense reasoning**](https://www.sciencedirect.com/science/article/abs/pii/S0950705126008786)  
+Jaehyung Seo, Hyeonseok Moon, **Yoonna Jang**, Heuiseok Lim
+_Knowledge-Based Systems 2026_   
+
 [**Reliable Evaluation Protocol for Low-Precision Retrieval**](https://arxiv.org/abs/2508.03306)   
 Kisu Yang, **Yoonna Jang**, Hwanseok Jang, Kenneth Choi, Isabelle Augenstein, Heuiseok Lim   
 _ACL 2026_   
 
 [**Interpretable Debiasing of Vision-Language Models for Social Fairness**](https://arxiv.org/abs/2602.24014)  
-Na Min An, **Yoonna Jang**, Yusuke Hirota, Ryo Hachiuma, Isabelle Augenstein, Hyunjung Shim  
-_CVPR 2026_
+Na Min An, **Yoonna Jang**, Yusuke Hirota, Ryo Hachiuma, Isabelle Augenstein, Hyunjung Shim   
+_CVPR 2026_   
+
+[**An Analysis on Language Transfer of Pre-trained Language Model with Cross-lingual Post-training**](https://www.sciencedirect.com/science/article/abs/pii/S0957417424027088)   
+Suhyune Son, Chanjun Park, Jungseob Lee, Midan Shim, Chanhee Lee, **Yoonna Jang**, Jaehyung Seo, Jungwoo Lim, Heuiseok Lim   
+_Expert Systems with Applications 2025_   
 
 [**Post-hoc Utterance Refining Method by Entity Mining for Faithful Knowledge Grounded Conversations**](https://aclanthology.org/2023.emnlp-main.295.pdf)  
 **Yoonna Jang**, Suhyune Son, Jeongwoo Lee, Junyoung Son, Yuna Hur, Jungwoo Lim, Hyeonseok Moon, Kisu Yang, Heuiseok Lim  
