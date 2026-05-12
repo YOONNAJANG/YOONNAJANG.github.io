@@ -73,6 +73,7 @@ _COLING 2020_
   
 
 ## **Projects**
+
 **Explain Yourself**
 Funded by the European Research Council (ERC) to make language models explainable and interpretable.
 _2025 - 2026_
